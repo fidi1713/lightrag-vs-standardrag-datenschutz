@@ -1,8 +1,8 @@
-# LightRAG vs. Standard-RAG bei Datenschutzdokumentation
+# LightRAG vs. Standard-RAG: Ein empirischer Vergleich der Antwortqualität bei Multi-Hop-Datenschutzfragen
 
-Begleitmaterial zur Projektarbeit „LightRAG vs. Standard-RAG bei Datenschutzdokumentation" (M.Sc. Wirtschaftsinformatik, Otto-Friedrich-Universität Bamberg, 2026).
+Begleitmaterial zur gleichnamigen Projektarbeit.
 
-Dieses Repository enthält die vollständigen Replizierbarkeits-Daten des Laborexperiments: alle 24 Einzelbewertungen (8 Multi-Hop-Datenschutzfragen × 3 Konfigurationen), die Bewertungsmethodik sowie den verwendeten Dokumentenkorpus.
+Dieses Repository enthält die vollständigen Experimentdaten zur Nachvollziehbarkeit der Untersuchung: alle 24 Einzelbewertungen (8 Multi-Hop-Datenschutzfragen × 3 Konfigurationen), die Bewertungsmethodik sowie den verwendeten Dokumentenkorpus.
 
 ## Inhalt
 
