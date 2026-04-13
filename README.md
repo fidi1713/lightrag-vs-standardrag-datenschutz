@@ -20,9 +20,6 @@ Dieses Repository enthält die vollständigen Experimentdaten zur Nachvollziehba
 | LightRAG (T=0) | Graph-basiertes RAG | 0,0 / 0,0 |
 | LightRAG (T=1) | Graph-basiertes RAG | 1,0 / 0,0 |
 
-## Bezug zur Projektarbeit
-
-Im Text der Projektarbeit wird auf dieses Repository als Quelle für die vollständigen Einzelbewertungen verwiesen. Der Kapitel-4-Text fasst die Ergebnisse zusammen; die Detailprüfung (Claims pro Frage, TP/FP/FN-Klassifikation, LiteLLM-Protokoll-Auszüge) erfolgt hier.
 
 ## Rechte
 
