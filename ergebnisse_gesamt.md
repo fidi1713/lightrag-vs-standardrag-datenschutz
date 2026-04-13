@@ -81,7 +81,7 @@ Berechnung Ø F1:
 
 ---
 
-## 4. Scorecard
+## 4. Scorecard F1
 
 | Frage | Hops | Gewinner |
 |-------|------|----------|
