@@ -1,0 +1,48 @@
+# Gebäudetechnik
+**Typ:** Stammdaten
+**Kontext:** Datenschutzrelevante technische Anlagen und Geräte
+**Relevanz Datenschutz:** Technische Funktionen von Überwachungs- und Zutrittssystemen bestimmen die datenschutzrechtlichen Anforderungen (Rechtsgrundlage, DSFA-Pflicht, Deaktivierungspflichten)
+
+---
+
+## Bosch FLEXIDOME 8100i 4 MP – X Series (NDE-8703-RXT)
+- **Hersteller:** Bosch Security Systems
+- **Typ:** Fixed-Dome-Kamera
+- **Auflösung:** 4 MP (1920 x 1080)
+
+**Technische Funktionen:**
+- PTRZ (Schwenken, Neigen, Rollen, Zoomen) – motorisiert, fernsteuerbar über Bosch Project Assistant App
+- Schwenkbereich: 0 bis 361 Grad
+- Optischer Zoom: 3x (12-38mm Varifokal)
+- Starlight X-Technologie: Farbbilder bei extrem schlechten Lichtverhältnissen (ab 0,001 Lux)
+- HDR X: Großer dynamischer Bereich für Details in hellen und dunklen Bereichen
+- Elektronische Bildstabilisierung (EIS)
+
+**Intelligent Video Analytics (IVA Pro):**
+- Deep-Learning-basierte Erkennung von Personen und Fahrzeugen (vorinstalliert)
+- Objekterkennung, Linienerkennung, Bereichserkennung
+- Loitering-Erkennung (Herumlungern)
+- Zählung und Belegungsschätzung
+- Crowd Density Estimation (Menschenmengendichte)
+- Camera Trainer: Benutzerdefinierte Objekterkennung trainierbar
+
+**Optionale IVA Pro Lizenzen:**
+- IVA Pro Appearance: Forensische Suche nach Personenmerkmalen (Kleidung, Farbe, Taschen)
+- IVA Pro Gun Detection: Schusswaffenerkennung
+- IVA Pro License Plate: Kfz-Kennzeichenerfassung
+- IVA Pro Personal Protective Equipment (PPE): Erkennung von Schutzausrüstung
+
+**Audio:**
+- Audio-Eingang und Audio-Ausgang (Anschlüsse für externes Mikrofon und Lautsprecher)
+- Zwei-Wege-Audio unterstützt
+
+**Speicher:**
+- Zwei microSD-Kartenslots (bis 128 GB pro Slot)
+- Lokale Speicherung auf SD-Karte möglich
+
+**Netzwerk/Cloud:**
+- PoE (Power over Ethernet)
+- HTTPS, TLS 1.2, AES 256-Bit Verschlüsselung
+- Bosch Cloud VMS und VideoView+ (Cloud-basierte Dienste)
+- ONVIF Profile S, G, M, T
+

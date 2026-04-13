@@ -1,0 +1,24 @@
+# Länderspezifische Datenschutzregelungen
+**Typ:** Gesetzliche Vorgaben
+**Kontext:** Anwendbares Datenschutzrecht je nach Unternehmenssitz und Anforderungen an den Drittlandtransfer
+**Relevante DSGVO-Artikel:** Art. 44-49 (Datenübermittlung in Drittländer)
+
+---
+
+## Europäische Union / Europäischer Wirtschaftsraum (EU/EWR)
+Unternehmen mit Sitz in der EU/dem EWR unterliegen der Datenschutz-Grundverordnung (DSGVO). Datenübermittlungen innerhalb der EU/des EWR gelten nicht als Drittlandtransfer und sind ohne zusätzliche Garantien zulässig.
+
+## Österreich
+Unternehmen mit Sitz in Österreich unterliegen der DSGVO sowie dem österreichischen Datenschutzgesetz (DSG). Als EU-Mitgliedstaat gelten dieselben Regelungen wie in der übrigen EU.
+
+## Vereinigtes Königreich
+Unternehmen mit Sitz im Vereinigten Königreich unterliegen der UK GDPR. Für Datentransfers aus der EU in das Vereinigte Königreich besteht ein Angemessenheitsbeschluss der EU-Kommission. Datenübermittlungen sind daher ohne zusätzliche Garantien zulässig.
+
+## USA
+Unternehmen mit Sitz in den USA unterliegen keiner mit der DSGVO vergleichbaren umfassenden Datenschutzregelung. US-Unternehmen unterliegen US-Gesetzen (CLOUD Act, FISA 702), die den Zugriff auf Daten unabhängig vom Speicherort ermöglichen. Daher kann auch bei EU-Hosting durch ein US-Unternehmen ein Drittlandtransfer vorliegen. Seit dem 10. Juli 2023 besteht ein Angemessenheitsbeschluss der EU-Kommission für das EU-U.S. Data Privacy Framework (DPF). Dieser erlaubt den Transfer personenbezogener Daten aus der EU an zertifizierte US-Unternehmen ohne weitere Garantien. Im September 2025 bestätigte das Gericht der Europäischen Union (EuG) die Gültigkeit des DPF. Die Zertifizierung des empfangenden US-Unternehmens ist zwingend erforderlich und muss im DPF-Register des US-Handelsministeriums überprüft werden. Bei DPF-zertifizierten US-Unternehmen gilt der Angemessenheitsbeschluss als Rechtsgrundlage für den Datentransfer (Art. 45 DSGVO). Bei nicht zertifizierten US-Unternehmen sind geeignete Garantien nach Art. 46 DSGVO erforderlich, insbesondere EU-Standardvertragsklauseln (SCCs). Es wird empfohlen, SCCs als vertragliche Absicherung beizubehalten, falls der Angemessenheitsbeschluss aufgehoben wird. Bei Nutzung von SCCs ist ein Transfer Impact Assessment (TIA) zwingend erforderlich. Dieses bewertet, ob das Datenschutzniveau im Einzelfall trotz SCCs durch US-Überwachungsgesetze (z.B. FISA 702) ausgehöhlt wird.
+
+## Japan
+Unternehmen mit Sitz in Japan unterliegen dem APPI (Act on the Protection of Personal Information). Für Datentransfers aus der EU nach Japan besteht ein Angemessenheitsbeschluss der EU-Kommission. Datenübermittlungen sind daher ohne zusätzliche Garantien zulässig.
+
+## Niederlande
+Unternehmen mit Sitz in den Niederlanden unterliegen der DSGVO. Als EU-Mitgliedstaat gelten dieselben Regelungen wie in der übrigen EU. Datenübermittlungen innerhalb der EU sind ohne zusätzliche Garantien zulässig.

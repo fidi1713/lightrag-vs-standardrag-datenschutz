@@ -1,0 +1,45 @@
+# Arbeitsbereiche
+**Typ:** Stammdaten
+**Kontext:** Tätigkeitsbereiche mit zugeordneten Verarbeitungstätigkeiten und Tools
+
+---
+
+## Recruiting
+- **Verarbeitungstätigkeiten:** Bewerbermanagement, Stellenausschreibungen, Bewerberkommunikation
+- **Tools:** Personio
+
+## Lohnabrechnung
+- **Verarbeitungstätigkeiten:** Gehaltsabrechnung, Sozialversicherungsmeldungen, Lohnsteueranmeldung
+- **Tools:** DATEV
+
+## Kundenberatung
+- **Verarbeitungstätigkeiten:** Kundenkontaktpflege, Angebotserstellung, Kundendatenverwaltung
+- **Tools:** HubSpot
+
+## Auftragsabwicklung
+- **Verarbeitungstätigkeiten:** Kundenbestellungen bearbeiten, Lieferungen koordinieren, Auftragsbestätigungen
+- **Tools:** SAP Business One
+
+## Buchhaltung
+- **Verarbeitungstätigkeiten:** Rechnungsstellung, Zahlungsverkehr, Kontenführung
+- **Tools:** DATEV, Microsoft 365
+
+## Einkauf
+- **Verarbeitungstätigkeiten:** Lieferantenbestellungen, Warenwirtschaft, Preisvergleiche
+- **Tools:** SAP Business One
+
+## Gästeempfang
+- **Verarbeitungstätigkeiten:** Gästeregistrierung, Ausweiserfassung, Zahlungsabwicklung
+- **Tools:** SAP Business One
+
+## Reservierungsmanagement
+- **Verarbeitungstätigkeiten:** Online-Zimmerbuchung, Gästedatenverwaltung, Buchungsbestätigungen
+- **Tools:** Cloudbeds
+
+## Küche
+- **Verarbeitungstätigkeiten:** Wareneinkauf, Speiseplanung, Lagerverwaltung
+- **Tools:** SAP Business One
+
+## Service
+- **Verarbeitungstätigkeiten:** Gästebetreuung, Bestellaufnahme, Tischreservierung
+- **Tools:** Resmio

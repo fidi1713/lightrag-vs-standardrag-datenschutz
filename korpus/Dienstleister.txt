@@ -1,0 +1,74 @@
+# Dienstleisterverzeichnis
+**Typ:** Stammdaten
+**Kontext:** Dienstleister und Lieferanten mit Standort und Branche
+**Relevanz Datenschutz:** Bei Auftragsverarbeitung ist ein Vertrag nach Art. 28 DSGVO erforderlich. Der Standort bestimmt, ob zusätzlich Anforderungen an den Drittlandtransfer (Art. 44-49 DSGVO) gelten.
+
+---
+
+## Personio GmbH
+- **Standort:** München, Deutschland
+- **Hosting:** Deutschland (EU)
+- **Branche:** Software
+
+## SAP SE
+- **Standort:** Walldorf, Deutschland
+- **Hosting:** Deutschland (EU)
+- **Branche:** Software
+
+## DATEV eG
+- **Standort:** Nürnberg, Deutschland
+- **Hosting:** Deutschland (EU)
+- **Branche:** Software / Steuerberatung
+
+## Microsoft Corporation
+- **Standort:** Redmond, USA
+- **Hosting:** EU-Rechenzentrum (Niederlande/Irland)
+- **DPF-Zertifizierung:** Ja
+- **Branche:** Software
+
+## HubSpot Inc.
+- **Standort:** Cambridge, USA
+- **Hosting:** USA
+- **DPF-Zertifizierung:** Ja
+- **Branche:** Software
+
+## Google LLC
+- **Standort:** Mountain View, USA
+- **Hosting:** USA
+- **DPF-Zertifizierung:** Ja
+- **Branche:** Software
+
+## Cloudbeds Inc.
+- **Standort:** San Diego, USA
+- **Hosting:** USA
+- **DPF-Zertifizierung:** Nein
+- **Branche:** Software / Hotellerie
+
+## Resmio GmbH
+- **Standort:** Berlin, Deutschland
+- **Hosting:** Deutschland (EU)
+- **Branche:** Software / Gastronomie
+
+## Exotic Liquids
+- **Standort:** London, Vereinigtes Königreich
+- **Branche:** Lebensmittelhandel
+
+## Tokyo Traders
+- **Standort:** Tokyo, Japan
+- **Branche:** Lebensmittelhandel
+
+## Booking.com B.V.
+- **Standort:** Amsterdam, Niederlande
+- **Hosting:** EU (Niederlande)
+- **Branche:** Online-Reiseportal
+
+## Gastrofix GmbH
+- **Standort:** Berlin, Deutschland
+- **Hosting:** Deutschland (EU)
+- **Branche:** Kassensysteme / Gastronomie
+
+## Workday Inc.
+- **Standort:** Pleasanton, USA
+- **Hosting:** USA
+- **DPF-Zertifizierung:** Ja
+- **Branche:** Software / HR

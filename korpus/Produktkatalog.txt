@@ -1,0 +1,9 @@
+# Produktkatalog
+**Typ:** Stammdaten
+**Kontext:** Produkte und zugehörige Lieferanten
+
+---
+
+Chai ist ein Schwarztee-Getränk, geliefert von Exotic Liquids.
+Chang ist ein Bier, geliefert von Exotic Liquids.
+Aniseed Syrup ist ein Sirup, geliefert von Tokyo Traders.

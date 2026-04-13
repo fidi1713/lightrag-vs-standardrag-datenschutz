@@ -1,0 +1,28 @@
+# Gesetzliche Aufbewahrungsfristen
+**Typ:** Gesetzliche Vorgaben
+**Kontext:** Löschpflicht und Aufbewahrungspflicht nach DSGVO
+**Relevante DSGVO-Artikel:** Art. 5 Abs. 1 lit. e (Speicherbegrenzung), Art. 17 (Recht auf Löschung)
+
+---
+
+Personenbezogene Daten sind unverzüglich zu löschen, sobald der Zweck der Verarbeitung entfällt und keine gesetzliche Aufbewahrungspflicht entgegensteht (Art. 17 Abs. 1 DSGVO). Die Einhaltung gesetzlicher Aufbewahrungsfristen stellt eine rechtliche Verpflichtung dar, die der Löschpflicht nach Datenschutzrecht entgegenstehen kann. Die folgenden Aufbewahrungsfristen ergeben sich aus handels- und steuerrechtlichen Vorschriften sowie datenschutzrechtlichen Empfehlungen. Die Aufbewahrungsfrist beginnt jeweils mit dem Schluss des Kalenderjahres, in dem die letzte Eintragung gemacht, der Beleg erstellt oder die Unterlage entstanden ist.
+
+Steuerrechtliche Aufbewahrungsfristen (§ 147 AO):
+- Bücher, Aufzeichnungen, Inventare, Jahresabschlüsse, Lageberichte und Organisationsunterlagen: 10 Jahre
+- Buchungsbelege und Rechnungen: 8 Jahre (seit 01.01.2025 verkürzt von 10 auf 8 Jahre durch das Bürokratieentlastungsgesetz IV)
+
+Handelsrechtliche Aufbewahrungsfristen (§ 257 HGB):
+- Handelsbücher, Inventare, Eröffnungsbilanzen, Jahresabschlüsse und Lageberichte: 10 Jahre
+- Empfangene und abgesandte Handelsbriefe: 6 Jahre
+
+Arbeitsrechtliche Aufbewahrungsfristen:
+- Lohnunterlagen und Entgeltabrechnungen: 6 Jahre nach Ende des Kalenderjahres der letzten Eintragung
+- Arbeitszeitnachweise (Mindestlohngesetz): 2 Jahre
+
+Bewerbungsunterlagen:
+- Nach Abschluss des Auswahlverfahrens: 6 Monate (Klagefrist nach § 15 Abs. 4 AGG und § 61b ArbGG: 3 Monate, mit Sicherheitszuschlag 6 Monate empfohlen)
+- Bei Rücknahme der Bewerbung: unverzügliche Löschung (Art. 17 DSGVO)
+
+Videoaufzeichnungen:
+- Maximale Speicherdauer: 72 Stunden (Empfehlung der Datenschutzkonferenz und des Europäischen Datenschutzausschusses, Guidelines 3/2019)
+- Längere Speicherung nur bei besonderem Überwachungszweck und dokumentierter Erforderlichkeit

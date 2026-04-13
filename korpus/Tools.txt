@@ -1,0 +1,32 @@
+# Software-Verzeichnis
+**Typ:** Stammdaten
+**Kontext:** Eingesetzte Software-Tools mit Hersteller
+
+---
+
+## Personio
+- **Hersteller:** Personio GmbH
+
+## SAP Business One
+- **Hersteller:** SAP SE
+
+## DATEV
+- **Hersteller:** DATEV eG
+
+## Microsoft 365
+- **Hersteller:** Microsoft Corporation
+
+## HubSpot
+- **Hersteller:** HubSpot Inc.
+
+## Google Workspace
+- **Hersteller:** Google LLC
+
+## Cloudbeds
+- **Hersteller:** Cloudbeds Inc.
+
+## Resmio
+- **Hersteller:** Resmio GmbH
+
+## Workday
+- **Hersteller:** Workday Inc.

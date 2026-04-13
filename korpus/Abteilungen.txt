@@ -1,0 +1,32 @@
+# Abteilungen
+**Typ:** Stammdaten
+**Kontext:** Organisationsstruktur der betreuten Unternehmen mit zugewiesenen Arbeitsbereichen
+
+---
+
+## Alfreds Futterkiste
+
+### Personal
+- **Arbeitsbereiche:** Recruiting, Lohnabrechnung
+
+### Vertrieb
+- **Arbeitsbereiche:** Kundenberatung, Auftragsabwicklung
+
+### Verwaltung
+- **Arbeitsbereiche:** Buchhaltung, Einkauf
+
+---
+
+## Hotel Sonnenberg
+
+### Personal
+- **Arbeitsbereiche:** Recruiting, Lohnabrechnung
+
+### Rezeption
+- **Arbeitsbereiche:** Gästeempfang, Reservierungsmanagement
+
+### Gastronomie
+- **Arbeitsbereiche:** Küche, Service
+
+### Verwaltung
+- **Arbeitsbereiche:** Buchhaltung, Einkauf

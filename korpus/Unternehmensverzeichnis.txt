@@ -1,0 +1,21 @@
+# Unternehmensverzeichnis
+**Typ:** Stammdaten
+**Kontext:** Übersicht der betreuten Unternehmen mit Organisationsstruktur und Dienstleistern
+
+---
+
+## Alfreds Futterkiste
+
+- **Branche:** Lebensmittelhandel
+- **Standort:** Berlin, Deutschland
+- **Abteilungen:** Personal, Vertrieb, Verwaltung
+- **Dienstleister:** Exotic Liquids, Tokyo Traders, Personio GmbH, SAP SE, HubSpot Inc., DATEV eG, Microsoft
+
+---
+
+## Hotel Sonnenberg
+
+- **Branche:** Hotellerie
+- **Standort:** Innsbruck, Österreich
+- **Abteilungen:** Personal, Rezeption, Gastronomie, Verwaltung
+- **Dienstleister:** Cloudbeds Inc., Resmio GmbH, SAP SE, DATEV eG, Personio GmbH, Google LLC
