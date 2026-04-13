@@ -97,7 +97,7 @@ Berechnung Ø F1:
 
 ---
 
-## 5. B2 vs B3 Vergleich (Temperature-Effekt)
+## 5. T=0 vs T=3 Vergleich F1 (Temperatur-Effekt)
 
 | Frage | Hops | B2 (T=0) | B3 (T=1) | Unterschied |
 |-------|------|----------|----------|-------------|
