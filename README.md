@@ -1,6 +1,5 @@
 # LightRAG vs. Standard-RAG: Ein empirischer Vergleich der Antwortqualität bei Multi-Hop-Datenschutzfragen
 
-Begleitmaterial zur gleichnamigen Projektarbeit.
 
 Dieses Repository enthält die vollständigen Experimentdaten zur Nachvollziehbarkeit der Untersuchung: alle 24 Einzelbewertungen (8 Multi-Hop-Datenschutzfragen × 3 Konfigurationen), die Bewertungsmethodik sowie den verwendeten Dokumentenkorpus.
 
