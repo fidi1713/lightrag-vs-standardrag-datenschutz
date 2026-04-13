@@ -24,6 +24,6 @@ Dieses Repository enthält die vollständigen Experimentdaten zur Nachvollziehba
 
 Im Text der Projektarbeit wird auf dieses Repository als Quelle für die vollständigen Einzelbewertungen verwiesen. Der Kapitel-4-Text fasst die Ergebnisse zusammen; die Detailprüfung (Claims pro Frage, TP/FP/FN-Klassifikation, LiteLLM-Protokoll-Auszüge) erfolgt hier.
 
-## Lizenz
+## Rechte
 
-Inhalte unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Alle Rechte vorbehalten. Eine Nutzung, Vervielfältigung oder Weiterverbreitung der Inhalte — ganz oder in Teilen — bedarf der vorherigen schriftlichen Zustimmung des Autors.
